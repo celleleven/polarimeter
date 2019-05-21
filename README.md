@@ -22,7 +22,7 @@ The goal is to recreate the Michaelis-Menten experiment using the current availa
 # Simple Sketch:
 
 ## Parametric Model
-  - Image Inline-style: ![alt text](https://github.com/Ce11 Polarimeter - Bench Tool/Image/Polarimeter.png "Polarimeter")
+  - Image Inline-style: ![alt text](https://github.com/Ce11%20Polarimeter%20-%20Bench%20Tool/Image/Polarimeter.png "Polarimeter")
   - Files
   - URL
 
