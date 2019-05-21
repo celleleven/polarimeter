@@ -1,4 +1,4 @@
-# Title: Polarimeter
+#ALT- Title: Polarimeter
 ======
 Author: S James Parsons Jr and Dan Short
 Date: 2019/05/21
