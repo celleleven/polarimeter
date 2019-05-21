@@ -1,7 +1,7 @@
 # Title: Polarimeter
 ======
-Author: S James Parsons Jr and Dan Short
-Date: 2019/05/21
+* Author: S James Parsons Jr and Dan Short
+* Date: 2019/05/21
 
 Image
 
