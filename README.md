@@ -1,4 +1,4 @@
-ALT-Title: Polarimeter
+# Title: Polarimeter
 ======
 Author: S James Parsons Jr and Dan Short
 Date: 2019/05/21
@@ -22,7 +22,7 @@ The goal is to recreate the Michaelis-Menten experiment using the current availa
 # Simple Sketch:
 
 ## Parametric Model
-  - Image
+  - Image Inline-style: ![alt text](https://github.com/Ce11 Polarimeter - Bench Tool/Image/Polarimeter.png "Polarimeter")
   - Files
   - URL
 
