@@ -5,7 +5,9 @@ Date: 2019/05/21
 
 Image
 
-Youtbe Video
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 # Purpose:
     The purpose of this tool is two parts; first to teach Michaelis-Menten Kinetics, and two to have an affordable means of identifying optical properties of a solution.  The tool cost #% which is lower than others on the market.  You can build it yourself for $xxx, or purchases your kit from [Cell Eleven - Polarimeter](https://www.celleleven.com/polarimeter).  
@@ -38,6 +40,12 @@ The goal is to recreate the Michaelis-Menten experiment using the current availa
 
 ## BOM (Build of Materials)
 Name Description Cost URL
+
+| Name        | Description           | Cost  | URL |
+| ------------- |:-------------:| -----:|-----:|
+| col 3 is      | right-aligned | $1600 |-----:|
+| col 2 is      | centered      |   $12 |-----:|
+| zebra stripes | are neat      |    $1 |-----:|
 
 # Total
 
