@@ -4,9 +4,11 @@
 
 # Open Source Polarimeter 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+
+
+<!-- <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
 " target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a> -->
 
 **TL;DR** Open Source Arduino controlled polarimeter used to measure the angle of polarized light rotation.
 
@@ -25,11 +27,11 @@ A polarimeter was used to graph the change in solution over time.  First, light 
 
 
 
-![Polarimeter ScreenShot](/Polarimeter_screenShot.png)
+<!--![Polarimeter ScreenShot](/Polarimeter_screenShot.png)-->
 
 
 ## Support Websites
-[Buy Open Soruce Polarimeter](https://www.celleleven.com/product/Polarimeter/)
+[Purchase Open Source Polarimeter](https://www.celleleven.com/product/Polarimeter/)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Michaelis%E2%80%93Menten_kinetics)
 
